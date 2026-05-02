@@ -13,7 +13,8 @@
 🎓 <b>Third-year CS Student</b> @ RV University<br>
 💡 <b>Passionate AI Enthusiast</b> crafting impactful AI-driven and full-stack solutions<br>
 🤖 <b>Full-Stack & Machine Learning</b> Developer<br>
-💻 Focused on <b>backend development</b> and <b>database-driven systems</b>
+💻 Focused on <b>backend development</b> and <b>database-driven systems</b><br>
+🛠️ Developing end-to-end projects across AI, web, and software
 
 <br clear = "right"/>
 
