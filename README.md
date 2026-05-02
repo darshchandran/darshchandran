@@ -95,3 +95,15 @@
 - 📚 **Multiple repositories** showcasing diverse technical skills
 
 ---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshchandran&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🤝 Let's Connect!
+
+---
